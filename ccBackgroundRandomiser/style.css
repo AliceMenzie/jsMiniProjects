@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#button-color {
+  /* margin: 2em; */
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-size: 3rem;
+}
