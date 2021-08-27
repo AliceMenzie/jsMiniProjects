@@ -30,11 +30,12 @@ body {
   background-image: url('https://source.unsplash.com/random/150x150');
   height: 150px;
   width: 150px;
-  cursor: pointer;
+  cursor: pointer;  
 }
 
 .hold {
   border: 3px solid grey;
+  
 }
 
 .hovered {
